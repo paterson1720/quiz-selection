@@ -7,10 +7,10 @@ Thanks for apply to Videsk! First you need understand this is a process for sele
 We need that you can create a simple functions or class that returns a JSON that filter `example.json` by:
 
 * Calls answered
-* Calls losed
+* Calls losed (Not answered)
 * Calls transfered
 * Calls by departments
-* Extra: Search by range**
+* Extra: Search by range or average minutes in queue**
 
 This can be with `functions`, `class` or method you think is better.
 
