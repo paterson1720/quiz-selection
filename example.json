@@ -2,10 +2,10 @@
     {
       "times": {
         "start": "2019-07-08T16:27:03.552Z",
-        "end": null
+        "end": "2019-07-08T16:28:59.666Z"
       },
       "transfered": {
-        "status": false
+        "status": true
       },
       "agent": "5c7a3e736f2b1d3e74cef2bf",
       "form": [
@@ -21,8 +21,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-08T16:54:07.533Z",
+        "end": "2019-07-08T16:56:07.533Z"
       },
       "transfered": {
         "status": false
@@ -41,8 +41,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T01:54:21.205Z",
+        "end": "2019-07-09T01:55:21.205Z"
       },
       "transfered": {
         "status": false
@@ -61,8 +61,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:18:04.304Z",
+        "end": "2019-07-09T05:19:04.304Z"
       },
       "transfered": {
         "status": false
@@ -81,8 +81,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:19:29.755Z",
+        "end": "2019-07-09T05:27:29.755Z"
       },
       "transfered": {
         "status": false
@@ -101,8 +101,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:19:55.544Z",
+        "end": "2019-07-09T05:21:55.544Z"
       },
       "transfered": {
         "status": false
@@ -121,8 +121,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:20:34.349Z",
+        "end": "2019-07-09T05:23:34.349Z"
       },
       "transfered": {
         "status": false
@@ -141,8 +141,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:20:51.412Z",
+        "end": "2019-07-09T05:22:51.412Z"
       },
       "transfered": {
         "status": false
@@ -161,8 +161,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:20:55.958Z",
+        "end": "2019-07-09T05:23:55.958Z"
       },
       "transfered": {
         "status": false
@@ -181,8 +181,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:21:09.719Z",
+        "end": "2019-07-09T05:22:09.719Z"
       },
       "transfered": {
         "status": false
@@ -201,8 +201,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:23:08.260Z",
+        "end": "2019-07-09T05:23:10.260Z"
       },
       "transfered": {
         "status": false
@@ -221,8 +221,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:26:27.425Z",
+        "end": "2019-07-09T05:28:27.425Z"
       },
       "transfered": {
         "status": false
@@ -241,8 +241,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:26:39.637Z",
+        "end": "2019-07-09T05:27:39.637Z"
       },
       "transfered": {
         "status": false
@@ -261,8 +261,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:29:10.879Z",
+        "end": "2019-07-09T05:45:10.879Z"
       },
       "transfered": {
         "status": false
@@ -281,8 +281,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:29:20.940Z",
+        "end": "2019-07-09T05:35:20.940Z"
       },
       "transfered": {
         "status": false
@@ -301,8 +301,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:30:32.785Z",
+        "end": "019-07-09T05:34:32.785Z"
       },
       "transfered": {
         "status": false
@@ -321,8 +321,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:30:37.159Z",
+        "end": "2019-07-09T05:37:37.159Z"
       },
       "transfered": {
         "status": false
@@ -341,8 +341,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:31:45.873Z",
+        "end": "2019-07-09T05:39:44.804Z"
       },
       "transfered": {
         "status": false
@@ -361,8 +361,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:49:44.804Z",
+        "end": "2019-07-09T05:54:44.804Z"
       },
       "transfered": {
         "status": false
@@ -381,8 +381,8 @@
     },
     {
       "times": {
-        "start": null,
-        "end": null
+        "start": "2019-07-09T05:51:38.374Z",
+        "end": "2019-07-09T05:57:38.374Z"
       },
       "transfered": {
         "status": false
@@ -402,10 +402,10 @@
     {
       "times": {
         "start": "2019-07-09T06:04:10.068Z",
-        "end": null
+        "end": "019-07-09T06:04:10.070Z"
       },
       "transfered": {
-        "status": false
+        "status": true
       },
       "agent": "5c7a3e736f2b1d3e74cef2bf",
       "form": [
@@ -422,10 +422,10 @@
     {
       "times": {
         "start": "2019-07-09T06:05:28.144Z",
-        "end": null
+        "end": "2019-07-09T06:10:21.564Z"
       },
       "transfered": {
-        "status": false
+        "status": true
       },
       "agent": "5c7a3e736f2b1d3e74cef2bf",
       "form": [
