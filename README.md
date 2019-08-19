@@ -10,7 +10,7 @@ We need that you can create a simple functions or class that returns a JSON that
 * Calls losed (Not answered)
 * Calls transfered
 * Calls by departments
-* Extra: Search by range or average minutes in queue**
+* Extra: Search by range or average minutes in queue** (Optional)
 
 This can be with `functions`, `class` or method you think is better.
 
